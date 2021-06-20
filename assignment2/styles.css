@@ -1,0 +1,20 @@
+.jumbotron{
+    background-color: mediumpurple;
+}
+
+.row-header{
+    color: white;
+}
+
+.footer{
+    background-color: #d7c9ef;
+}
+
+body{
+    padding:50px 0 0 0;
+    z-index:0;
+}
+
+.navbar-dark {
+    background-color: #512DA8;
+}
