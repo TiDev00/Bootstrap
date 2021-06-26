@@ -1,8 +1,17 @@
 {
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "This is a website for Ristorante Con Fusion",
+  "main": "index.html",
+  "scripts": {
+    "scss": "node-sass --watch scss -o css"
+  },
+
   "dependencies": {
     "bootstrap": "4.6",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "4.7",
-    "less": "^4.1.1"
+    "less": "^4.1.1",
+    "node-sass": "^6.0.1"
   }
 }
